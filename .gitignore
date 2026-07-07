@@ -1,0 +1,13 @@
+node_modules
+.next
+.DS_Store
+*.log
+.env*.local
+.vercel
+
+# TypeScript incremental build cache
+tsconfig.tsbuildinfo
+
+# Internal Kotova data export and offline tooling — kept out of the public repo
+/data/
+/scripts/
