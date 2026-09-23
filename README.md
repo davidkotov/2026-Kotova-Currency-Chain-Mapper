@@ -5,8 +5,8 @@ token logo (chain badge fitted into the bottom-right quadrant, no background
 fill). Includes a Python bulk script that already generated
 `tokens-internal/` for every `x_asset_chains` row.
 
-## Live Version
-Access the URL: toolbox.kotova.io via your chrome browser.
+## Try It Online
+Open [toolbox.kotova.io](https://toolbox.kotova.io) in your Chrome browser.
 
 ## Layout
 
